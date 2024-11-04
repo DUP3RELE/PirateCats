@@ -37,6 +37,9 @@
         <mxCell id="GGeRf4PESUj_x63hk-KP-14" value="rodzaje nagród = złoto - główna waluta&lt;div&gt;punkty doświadczenia klasy&lt;/div&gt;&lt;div&gt;punkty doświadczenia postaci?&lt;/div&gt;&lt;div&gt;dodatkowe nagrody = crafting?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="240" width="180" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="GGeRf4PESUj_x63hk-KP-15" value="rodzaje walki - walka na statku, walka poza statkiem?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="180" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
