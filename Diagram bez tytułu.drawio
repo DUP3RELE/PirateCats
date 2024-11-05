@@ -1,44 +1,99 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Strona-1" id="4vS0EpxF459ert-kYh-V">
-    <mxGraphModel dx="1050" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GGeRf4PESUj_x63hk-KP-1" value="Pirate Cats!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="GGeRf4PESUj_x63hk-KP-1" value="Pirate Cats!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="184" y="30" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GGeRf4PESUj_x63hk-KP-4" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Gra kooperacyjna, widok izometryczny bajkowa/zabawna. gra o kotach piratach, każdy jest taki sam ale na statku może wybrać jedną klasę,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot; id=&quot;docs-internal-guid-cad2bb7d-7fff-05e1-43ee-abb36c643c0b&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;sternik, kanonier, inżynier, klasa wsparcia. Tryby gry = pvp? exctraction? pve? &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;gra po ang! = ang first&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="GGeRf4PESUj_x63hk-KP-4" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Gra kooperacyjna, widok izometryczny bajkowa/zabawna. gra o kotach piratach, każdy jest taki sam ale na statku może wybrać jedną klasę,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot; id=&quot;docs-internal-guid-cad2bb7d-7fff-05e1-43ee-abb36c643c0b&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;sternik, kanonier, inżynier, klasa wsparcia. Tryby gry = pvp? exctraction? pve? solo? &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;gra po ang! = ang first&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="40" y="100" width="760" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GGeRf4PESUj_x63hk-KP-5" value="&#xa;&lt;b id=&quot;docs-internal-guid-bde5b621-7fff-b49c-7203-66eb1bc062ac&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;sternik = kot sterujący statkiem&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="180" height="130" as="geometry" />
+        <mxCell id="GGeRf4PESUj_x63hk-KP-5" value="&#xa;&lt;b id=&quot;docs-internal-guid-bde5b621-7fff-b49c-7203-66eb1bc062ac&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;sternik = kot sterujący statkiem&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="490.25" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GGeRf4PESUj_x63hk-KP-6" value="&#xa;&lt;b id=&quot;docs-internal-guid-bde5b621-7fff-b49c-7203-66eb1bc062ac&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;sternik = kot sterujący statkiem&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="380" width="180" height="130" as="geometry" />
+        <mxCell id="GGeRf4PESUj_x63hk-KP-7" value="&lt;span id=&quot;docs-internal-guid-4457cf5e-7fff-6c5b-1bba-29d07f727883&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;inżynier = naprawia statek, wzmacnia go&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="490" width="120" height="70.25" as="geometry" />
         </mxCell>
-        <mxCell id="GGeRf4PESUj_x63hk-KP-7" value="&#xa;&lt;b id=&quot;docs-internal-guid-bde5b621-7fff-b49c-7203-66eb1bc062ac&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;sternik = kot sterujący statkiem&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="660" width="180" height="130" as="geometry" />
+        <mxCell id="GGeRf4PESUj_x63hk-KP-8" value="&lt;span id=&quot;docs-internal-guid-4e753459-7fff-43ab-c84b-4888f4f07243&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;kanonier = zarządzający działami&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="490.25" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GGeRf4PESUj_x63hk-KP-8" value="&#xa;&lt;b id=&quot;docs-internal-guid-bde5b621-7fff-b49c-7203-66eb1bc062ac&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;sternik = kot sterujący statkiem&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="519.5" width="180" height="130" as="geometry" />
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="GGeRf4PESUj_x63hk-KP-9" target="GGeRf4PESUj_x63hk-KP-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="480" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="GGeRf4PESUj_x63hk-KP-9" value="klasy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="GGeRf4PESUj_x63hk-KP-9" target="GGeRf4PESUj_x63hk-KP-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="480" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="GGeRf4PESUj_x63hk-KP-10" value="statek" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="GGeRf4PESUj_x63hk-KP-9" target="GGeRf4PESUj_x63hk-KP-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="GGeRf4PESUj_x63hk-KP-9" target="GGeRf4PESUj_x63hk-KP-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGeRf4PESUj_x63hk-KP-9" value="klasy" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="75" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="GGeRf4PESUj_x63hk-KP-10" target="GGeRf4PESUj_x63hk-KP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGeRf4PESUj_x63hk-KP-10" value="statek" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GGeRf4PESUj_x63hk-KP-11" value="Każdy gracz ma swój własny statek, wybierany jest zawsze statek sternika = 3+? poziomy statków, dla różnych poziomów trudności/nagród&lt;div&gt;3 rodzaje statków = szybki/delikatny&lt;/div&gt;&lt;div&gt;średni/średni&lt;/div&gt;&lt;div&gt;wolny/wytrzymały&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="170" height="140" as="geometry" />
+        <mxCell id="GGeRf4PESUj_x63hk-KP-11" value="Każdy gracz ma swój własny statek, wybierany jest zawsze statek sternika = 3+? poziomy statków, dla różnych poziomów trudności/nagród&lt;div&gt;3 rodzaje statków = szybki/delikatny&lt;/div&gt;&lt;div&gt;średni/średni&lt;/div&gt;&lt;div&gt;wolny/wytrzymały&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="245" width="170" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="GGeRf4PESUj_x63hk-KP-12" value="nagrody" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="GGeRf4PESUj_x63hk-KP-12" target="GGeRf4PESUj_x63hk-KP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGeRf4PESUj_x63hk-KP-12" value="nagrody" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GGeRf4PESUj_x63hk-KP-14" value="rodzaje nagród = złoto - główna waluta&lt;div&gt;punkty doświadczenia klasy&lt;/div&gt;&lt;div&gt;punkty doświadczenia postaci?&lt;/div&gt;&lt;div&gt;dodatkowe nagrody = crafting?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="240" width="180" height="130" as="geometry" />
+        <mxCell id="GGeRf4PESUj_x63hk-KP-14" value="rodzaje nagród = złoto - główna waluta&lt;div&gt;punkty doświadczenia klasy&lt;/div&gt;&lt;div&gt;punkty doświadczenia postaci?&lt;/div&gt;&lt;div&gt;dodatkowe nagrody = crafting?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="245" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="GGeRf4PESUj_x63hk-KP-15" value="rodzaje walki - walka na statku, walka poza statkiem?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="800" width="180" height="130" as="geometry" />
+        <mxCell id="GGeRf4PESUj_x63hk-KP-15" value="&lt;span id=&quot;docs-internal-guid-4b06e2db-7fff-9a4c-b573-9ce9ddaf4141&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;wsparcie = robi wszystko ale słabiej, albo gra szanty i wzmacnia sojuszników.&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="490.25" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="v2GtRoSYadoqY-mAGEnl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="v2GtRoSYadoqY-mAGEnl-1" target="GGeRf4PESUj_x63hk-KP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-1" value="gracz jest kotem-piratem, i ma 4 klasy które może zmieniać przed rozpoczęciem rozgrywki, ale nie w samej rozgrywce. W każdej rozgrywce jeden gracz może grać jedną klasą (tryby dla 2 graczy, dwie klasy?). W trybie solo gracz może sterować całym statkiem (sterowanie, naprawy, działa)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="245" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="v2GtRoSYadoqY-mAGEnl-2" target="v2GtRoSYadoqY-mAGEnl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-2" value="gracz" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="v2GtRoSYadoqY-mAGEnl-9" target="v2GtRoSYadoqY-mAGEnl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-9" value="technologia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="v2GtRoSYadoqY-mAGEnl-10" target="v2GtRoSYadoqY-mAGEnl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-10" value="planowanie - drawio&lt;div&gt;silnik - gdot, język gdscript&lt;/div&gt;&lt;div&gt;git repository&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="250" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="v2GtRoSYadoqY-mAGEnl-17" value="&lt;div&gt;rzut izometryczny&lt;/div&gt;&lt;div&gt;grafika 3d z dodatkiem animacji 2d&lt;/div&gt;&lt;div&gt;styl pastelowy, rysunkowy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="350" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
